@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1782838219969",
+    "description": "tspop",
+    "status": "open",
+    "assignedTo": null,
+    "broadcastMessages": [
+      {
+        "chatId": 5917899722,
+        "messageId": 15
+      }
+    ],
+    "createdBy": 5917899722,
+    "createdAt": "2026-06-30T16:50:19.969Z",
+    "assignedAt": "2026-06-30T16:50:24.478Z",
+    "completedBy": {
+      "userId": 5917899722,
+      "username": "Tsp20op",
+      "name": "! 𝚃 𝚂 𝙿 ™"
+    },
+    "completedAt": "2026-06-30T16:50:35.912Z"
+  },
+  {
+    "id": "1782838748522",
+    "description": "tspop",
+    "status": "open",
+    "assignedTo": null,
+    "broadcastMessages": [
+      {
+        "chatId": 5917899722,
+        "messageId": 38
+      },
+      {
+        "chatId": 7411924139,
+        "messageId": 39
+      }
+    ],
+    "createdBy": 5917899722,
+    "createdAt": "2026-06-30T16:59:08.522Z",
+    "assignedAt": "2026-06-30T16:59:15.843Z",
+    "completedBy": {
+      "userId": 7411924139,
+      "username": "Earnwithtspop",
+      "name": "EARN With me"
+    },
+    "completedAt": "2026-06-30T16:59:30.025Z"
+  },
+  {
+    "id": "1782869006766",
+    "description": "🟢 UPI QR — ChatGPT Plus (IN)\nEmail: fanfics.zips*@**.com\nHết hạn: 23:19:22 30/06/2026 VN\nExpired: 21:49:22 30/06/2026 IN\n💳 Link thanh toán UPI",
+    "status": "assigned",
+    "assignedTo": {
+      "userId": 7411924139,
+      "username": "Earnwithtspop",
+      "name": "EARN With me"
+    },
+    "broadcastMessages": [
+      {
+        "chatId": 5917899722,
+        "messageId": 55
+      },
+      {
+        "chatId": 7411924139,
+        "messageId": 56
+      }
+    ],
+    "createdBy": 5917899722,
+    "createdAt": "2026-07-01T01:23:26.766Z",
+    "assignedAt": "2026-07-01T01:23:40.826Z"
+  }
+]
